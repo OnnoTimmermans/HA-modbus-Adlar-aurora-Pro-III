@@ -12,11 +12,11 @@ homeassistant:
 
 Mode: Modbus TCP ==> Modbus RTU 
 
-Baudrate: 9600
-Databits: 8
-Parity: none
-Stop: 2
-Baudrate adaptive (RFC2117): Disable
+- Baudrate: 9600
+- Databits: 8
+- Parity: none
+- Stop: 2
+- Baudrate adaptive (RFC2117): Disable
 
 to be continued
 
